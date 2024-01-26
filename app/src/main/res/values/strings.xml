@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Accessability try</string>
+    <string name="accessibility_service_label" >accessability</string>
+    <string name="accessibility_service_description">text reader</string>
+</resources>
